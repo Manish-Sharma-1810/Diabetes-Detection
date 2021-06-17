@@ -67,7 +67,7 @@ if st.checkbox("About Dataset"):
 
 
 # Set White Grid
-sns.set_style("whitegrid")
+sns.set_style("darkgrid")
 
 # VISUALIZATION
 if st.checkbox("Exploratory Data Analysis (EDA)"):
