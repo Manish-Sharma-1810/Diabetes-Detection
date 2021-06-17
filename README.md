@@ -30,6 +30,6 @@ This webapp deployed on heroku. Wen-link :
 * GitHub
 * Heroku (PaaS)
 
-## Refernce of Dataset
-* [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
-* [Streamlit](https://streamlit.io/)
+## Refernces
+* For Dataset [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* For UI [Streamlit](https://streamlit.io/)
