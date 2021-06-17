@@ -17,13 +17,13 @@ This classifier webapp basically developed using Streamlit (Python - framework) 
 * Matplotlib
 * Seaborn
 
-# For Model-training
+### For Model-training
 * sklearn.model_selection - train_test_split
 * sklearn.svm - SVC
 * sklearn.ensemble - RandomForestClassifier
 * sklearn.linear_model - LogisticRegression
 * sklearn.model_selection - GridSearchCV
 
-## Deployment
+### Deployment
 * GitHub
 * Heroku (PaaS)
