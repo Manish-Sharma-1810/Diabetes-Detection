@@ -2,14 +2,14 @@
 
 This classifier webapp basically developed using Streamlit (Python - framework) and it classifies the categories of "Diabetic" or "Not Diabetic"  based on certain input parameters. In this app we can choose different classifiers like; SVM, RandomForest, GridSearch, Logistics Regression, for the classification.
 
-This webapp deployed on heroku. app-link : https://diabetes-detection-pima-app.herokuapp.com/
+### This webapp deployed on heroku. app-link : https://diabetes-detection-pima-app.herokuapp.com/
 
 ## **Technologies Used:**
 
 ### For Development
 * Python3 (Programming Language)
 * Streamlit (Python-Framework)
-* Jupyter
+* Jupyter Notebook
 * VS Code (IDE)
 * Linux-Ubuntu:20.04 (OS)
 
